@@ -20,7 +20,7 @@ int main()
 
 	if (x <= -1 - R)
 	{
-		y = -x;
+		y = -x - 1 - R;
 	}
 	else
 	{
