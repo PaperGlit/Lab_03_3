@@ -5,15 +5,12 @@
 // Варіант 11
 
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
 int main()
 {
-	double R;
-	double x;
-	double y;
+	double R, x, y;
 
 	cout << "R = "; cin >> R;
 	cout << "x = "; cin >> x;
